@@ -1,4 +1,0 @@
-385646670393 --> iam id
-
-username:barath
-pass:barath@06
